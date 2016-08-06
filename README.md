@@ -7,6 +7,10 @@ bởi một bạn đẹp trai vừa phải có biệt danh `DreAms // UNDRLVND`.
 Tiện thể nếu Thiên An đang đọc cái này, làm ơn nâng cấp hệ thống SQL để sinh viên không cần phải dùng script này...
 
 ## Cách sử dụng
+#### 0.5. Tải và update Firefox.
+
+Nếu bạn thích nghịch, hãy sửa source code và compile lại - Selenium có binding cho IE, Firefox, Chrome, Opera, Safari, nói chung là đủ cả.
+
 #### 1. Tải file `Firefox_Tinchi.class` và `input.txt` về.
 
 Để chúng ở chung 1 folder cùng với tất cả các file sau này.
