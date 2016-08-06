@@ -2,7 +2,7 @@
 bởi một bạn đẹp trai vừa phải có biệt danh `DreAms // UNDRLVND`.
 
 ## Giới thiệu chung
-Đây là một con bot Java nho nhỏ xinh xinh, chạy dựa trên API của Selenium, giúp bạn auto F5 lỡ sập mạng và đăng ký lớp. Đã thử trên hệ thống HNUE, tuy nhiên theo lý thuyết sẽ hoạt danhđộng trên các trang web của các trường khác, miễn là format tương tự hệ thống Thiên An.
+Đây là một con bot Java nho nhỏ xinh xinh, chạy dựa trên API của Selenium, giúp bạn auto F5 lỡ sập mạng và đăng ký lớp. Đã thử trên hệ thống HNUE, tuy nhiên theo lý thuyết sẽ hoạt động trên các trang web của các trường khác, miễn là format tương tự hệ thống của Thiên An.
 
 Tiện thể nếu Thiên An đang đọc cái này, làm ơn nâng cấp hệ thống SQL để sinh viên không cần phải dùng script này...
 
