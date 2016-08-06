@@ -16,7 +16,7 @@ Tiện thể nếu Thiên An đang đọc cái này, làm ơn nâng cấp hệ t
 
 Nếu bạn dùng Windows, hãy tải file `run.bat`. Nếu bạn dùng Mac/Linux, mình lười viết batch file và test lắm nên các bạn tự run from source ở bước 6 nhé: `cd [folder_chứa_file]; javac -cp "*:." Firefox_Tinchi`.
 
-*Trong file đó chỉ có dòng lệnh chạy `javac`, tuy nhiên nó giúp người dùng không cần `cd`.*
+*Trong file đó chỉ có dòng lệnh chạy `javac`, nó giúp người dùng không cần `cd`.*
 
 #### 3. Tải 2 file `jar` của Selenium về.
 
