@@ -22,11 +22,13 @@ Nếu bạn dùng Windows, hãy tải file `run.bat`. Nếu bạn dùng Mac/Linu
 
 Bạn vào trang web sau: http://www.seleniumhq.org/download/. Sau đó các bạn tải file server và client như hướng dẫn dưới đây:
 
-*Các bạn từ từ cho mình đổi hệ điều hành mới chụp ảnh màn hình không bị mờ huhu*
+![alt text](http://i.imgur.com/QgTUblN.png "Bạn mà không tự tải được nữa thì mình cũng chịu rồi đấy.")
+
+*Các bạn nhớ tải 2 file đó về cùng folder cũ.*
 
 #### 4. Tải và cài đặt Java Runtime Environment.
 
-Bạn vào trang web sau: https://java.com/en/download/. Sau đó, tải và cài đặt như bình thường.uhu
+Bạn vào trang web sau: https://java.com/en/download/. Sau đó, tải và cài đặt như bình thường.
 
 #### 5. Sửa file `input.txt` theo  đúng nhu cầu của bạn.
 
