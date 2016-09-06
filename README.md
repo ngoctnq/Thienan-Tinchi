@@ -1,6 +1,9 @@
 # Đăng ký tín chỉ qua hệ thống Thiên An
 bởi một bạn đẹp trai vừa phải có biệt danh `DreAms // UNDRLVND`.
 
+###### UPDATE - READ THIS // I DON'T HAVE UNIKEY LUL
+    Since the Firefox > 46.0, Selenium 2 and older will NOT work. Try finding old Selenium jars and use it with older versions of Firefox. Personally I can't even find a link for the old jars, just had in cached in my directory... somewhere.
+
 ## Giới thiệu chung
 Đây là một con bot Java nho nhỏ xinh xinh, chạy dựa trên API của Selenium, giúp bạn auto F5 lỡ sập mạng và đăng ký lớp. Đã thử trên hệ thống HNUE, tuy nhiên theo lý thuyết sẽ hoạt động trên các trang web của các trường khác, miễn là format tương tự hệ thống của Thiên An.
 
@@ -45,6 +48,6 @@ Bạn vào trang web sau: https://java.com/en/download/. Sau đó, tải và cà
 Nếu bạn chạy Windows thì nhấp đúp vào file `run.bat`, còn không các bạn cố gắng tự gõ dòng lệnh mình đính kèm trên bước 6 nhé. Nếu bạn vẫn không chạy được thì có gì email mình rồi mình làm video hướng dẫn tạm vậy... cơ mà dùng Windows đi.
 
 ## Công trạng // Chú thích
-Mình tự viết code này cho một thằng bạn, và nó cho mình mượn acc để test - `charlievvv`. Các bạn muốn làm gì thì làm cơ mà mình không chịu trách nhiệm gì đâu nhé.
+Mình tự viết code này cho một thằng bạn, và nó cho mình mượn acc để test. Các bạn muốn làm gì thì làm cơ mà mình không chịu trách nhiệm gì đâu nhé.
 
 Nếu có bug hoạt không hoạt động các bạn có thể mở một issue ticket ngay trên GitHub, hoặc email mình tại `ngoc@underlandian.com`.
